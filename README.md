@@ -22,8 +22,8 @@ Once you download the project, there are 4 ways to run program (assuming you hav
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b>java com.triangle.TriangleClassification 3.5 4.5 5.5</b>
 		
 <li><h3>Browser</h3>
-<br>A. I put a war file in &lt;directory where you installed project&gt;/Triangle-master/Triangle/build/Triangle.war
-<br>B. Install the war on your favorite server
+<br>A. I put a war file in &lt;Installation Directory&gt;/Triangle-master/Triangle/build/Triangle.war
+<br>B. Install the war on your favorite server. ( I assume you know how to do that!).
 <br>C. Once the server is up and running, you should be able to access the war by the following URL:
 <br>&nbsp;&nbsp;&nbsp;&nbsp;<b> http://host:port/Triangle/index.jsp </b>
 
